@@ -10,7 +10,8 @@ Log sales transactions with customer details and the date/time of purchase.
 The system aims to streamline the process of managing inventory and sales for small businesses or retail shops.
 
 # Key Features
-## Product Listing ##: Displays the list of available products, including their names, prices, and quantities.
+## Product Listing: 
+Displays the list of available products, including their names, prices, and quantities.
 ## Purchase Process: Allows users to select products, specify the quantity, and calculate the total billing amount.
 ## GST Calculation: Automatically adds 18% GST to the product price and adjusts the billing amount accordingly.
 ## Inventory Management: Automatically updates the quantity of products after a sale, ensuring accurate inventory tracking.
